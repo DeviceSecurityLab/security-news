@@ -1,4 +1,4 @@
-baseURL = "https://osamusic.github.io/security-news/"
+baseURL = "https://devicesecuritylab.github.io/security-news/"
 languageCode = "ja"
 title = "セキュリティニュース日報"
 theme = "PaperMod"
